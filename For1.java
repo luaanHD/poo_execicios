@@ -10,7 +10,7 @@ public class For1 extends Thread{
             }catch (Exception ex) {
                 System.out.println(ex.getMessage());
             }
-            System.out.println("Valor Final de x: "+x);
+            System.out.println("Valor final de x: "+x);
         }
 
     }
